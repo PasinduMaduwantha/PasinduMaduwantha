@@ -1,7 +1,1 @@
-### Hi there 👋
-
-I'm Pasindu Maduwantha
-
-I’m currently working as an intern software Engineer at epic lanka pvt.ltd
-
-I' m Computer Engineering Undergraduate at University Of Sri Jayewardhenepura
+Hey there! 👋 I'm Pasindu Maduwantha, currently im an undergraduate student in Computer Engineering(Bsc.Eng(Hons) specialized in Computer Engineering) at the University Of Sri Jayewardhenepura. I've had the privilege of working as an intern software engineer at Epic Lanka Pvt. Ltd., where I gained valuable industry experience and honed my skills in software development. Excited to share and collaborate on projects here on GitHub!
