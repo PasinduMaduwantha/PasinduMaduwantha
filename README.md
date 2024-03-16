@@ -56,7 +56,7 @@ Feel free to connect with me! Let's collaborate on some exciting projects! ü§ù‚
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduMaduwantha&show_icons=true&line_height=27&theme=vision-friendly-dark&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduMaduwantha&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduMaduwantha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
