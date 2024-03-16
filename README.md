@@ -50,7 +50,7 @@ Feel free to connect with me! Let's collaborate on some exciting projects! ü§ù‚
 
 ### :fire: My Stats 
 <a href="https://github.com/PasinduMaduwantha/PasinduMaduwantha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduMaduwantha&show_icons=true&line_height=27&theme=vision-friendly-dark&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduMaduwantha&show_icons=true&line_height=27&theme=vision-friendly-dark&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="stats" />
 </a>
 <br/>
 <a href="https://github.com/PasinduMaduwantha/PasinduMaduwantha">
