@@ -12,6 +12,10 @@ Feel free to connect with me! Let's collaborate on some exciting projects! 🤝�
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduMaduwantha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
 </a>
 
-<a href=”https://github.com/PasinduMaduwantha/Travel-Companion>">
- <img align=”center” src=”https://github-readme-stats.vercel.app/api/pin/?username=PasinduMaduwantha&repo=Travel-Companion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/PasinduMaduwantha/HongKong-HorseRacePrediction">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduMaduwantha&repo=HongKong-HorseRacePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/PasinduMaduwantha/Travel-Companion">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduMaduwantha&repo=Travel-Companion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
