@@ -56,9 +56,10 @@ Feel free to connect with me! Let's collaborate on some exciting projects! ğŸ¤â
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduMaduwantha&show_icons=true&line_height=27&theme=vision-friendly-dark&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduMaduwantha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://github.com/PasinduMaduwantha/PasinduMaduwantha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduMaduwantha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
 
 
 <a href="https://github.com/PasinduMaduwantha/post-mate">
