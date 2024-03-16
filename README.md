@@ -15,7 +15,6 @@
   </a>
 </div>
 
-
 ### :woman_technologist: About Me 
 Computer Engineering undergraduate [Bsc.Eng (Hons)] at University of Sri Jayewardhenepura, Sri Lnaka 👨‍💻💼🎓
 Feel free to connect with me! Let's collaborate on some exciting projects! 🤝✨
@@ -49,23 +48,12 @@ Feel free to connect with me! Let's collaborate on some exciting projects! 🤝�
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" **alt="pycharm" width="40" height="40"/>
 </div>
 
-
 ### :fire: My Stats 
-
 <a href="https://github.com/PasinduMaduwantha/PasinduMaduwantha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduMaduwantha&show_icons=true&line_height=27&theme=vision-friendly-dark&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
 </a>
-
-
+<br/>
 <a href="https://github.com/PasinduMaduwantha/PasinduMaduwantha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduMaduwantha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 
-
-<a href="https://github.com/PasinduMaduwantha/post-mate">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduMaduwantha&repo=post-mate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=vision-friendly-dark" />
-</a>
-
-<a href="https://github.com/PasinduMaduwantha/Travel-Companion">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduMaduwantha&repo=Travel-Companion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=vision-friendly-dark" />
-</a>
