@@ -45,7 +45,7 @@ Feel free to connect with me! Let's collaborate on some exciting projects! ü§ù‚
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PasinduMaduwantha&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduMaduwantha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduMaduwantha&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
