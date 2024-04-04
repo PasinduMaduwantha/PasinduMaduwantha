@@ -16,8 +16,8 @@
 </div>
 
 ### :woman_technologist: About Me 
-Computer Engineering undergraduate [Bsc.Eng (Hons)] at University of Sri Jayewardhenepura, Sri Lnaka 👨‍💻💼🎓. And also I'm a freelancer 💻 at Binary Clan. Here the github link of our Organization 
-<a href="https://github.com/orgs/Binary-Clan/repositories"/>
+Computer Engineering undergraduate [Bsc.Eng (Hons)] at University of Sri Jayewardhenepura, Sri Lnaka 👨‍💻💼🎓. And also I'm a freelancer 💻 at <a href="https://github.com/orgs/Binary-Clan">Binary Clan</a>
+
 Feel free to connect with me! Let's collaborate on some exciting projects! 🤝✨
 
 ### :hammer_and_wrench: Languages and Tools 
