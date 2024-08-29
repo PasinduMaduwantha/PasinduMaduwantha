@@ -16,7 +16,7 @@
 </div>
 
 ### :woman_technologist: About Me 
-Computer Engineer [Bsc.Eng (Hons)] at University of Sri Jayewardhenepura, Sri Lnaka 👨‍💻💼🎓. And also I'm a freelancer 💻 at <a href="https://github.com/orgs/Binary-Clan">Binary Clan</a>
+Computer Engineer [Bsc.Eng (Hons)] at University of Sri Jayewardhenepura, Sri Lnaka 👨‍💻💼🎓. And also freelancer 💻 at <a href="https://github.com/orgs/Binary-Clan">Binary Clan</a>
 
 Feel free to connect with me! Let's collaborate on some exciting projects! 🤝✨
 
