@@ -21,13 +21,6 @@
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/pasindu-madhuwantha/)! 🤝
 * Feel free to reach out via email: [apmaduwantha@gmail.com](mailto:apmaduwantha@gmail.com) 📧
   
-Computer Engineer [Bsc.Eng (Hons)] at University of Sri Jayewardhenepura, Sri Lnaka 👨‍💻💼🎓. Co-founder & Freelancer 💻 at <a href="https://github.com/orgs/Binary-Clan">Binary Clan</a>.
-
-Let's connect on  <a href="https://github.com/orgs/Binary-Clan](https://www.linkedin.com/in/pasindu-madhuwantha/">pasindu-madhuwantha</a>.
-
-Feel free to reach out via email:[apmaduwantha@gmail.com](mailto:apmaduwantha@gmail.com)
-
-
 ### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
