@@ -16,9 +16,17 @@
 </div>
 
 ### :woman_technologist: About Me 
+* Computer Engineer (BSc.Eng Hons, University of Sri Jayewardhenepura, Sri Lanka) 👨‍💻💼🎓
+* Co-founder & Freelancer 💻 at [Binary Clan](https://github.com/orgs/Binary-Clan) 🚀
+* Let's connect on [LinkedIn](https://www.linkedin.com/in/pasindu-madhuwantha/)! 🤝
+* Feel free to reach out via email: [apmaduwantha@gmail.com](mailto:apmaduwantha@gmail.com) 📧
+  
 Computer Engineer [Bsc.Eng (Hons)] at University of Sri Jayewardhenepura, Sri Lnaka 👨‍💻💼🎓. Co-founder & Freelancer 💻 at <a href="https://github.com/orgs/Binary-Clan">Binary Clan</a>.
 
-Feel free to connect with me! Let's collaborate on some exciting projects! 🤝✨[apmaduwantha@gmail.com](mailto:apmaduwantha@gmail.com)
+Let's connect on  <a href="https://github.com/orgs/Binary-Clan](https://www.linkedin.com/in/pasindu-madhuwantha/">pasindu-madhuwantha</a>.
+
+Feel free to reach out via email:[apmaduwantha@gmail.com](mailto:apmaduwantha@gmail.com)
+
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
