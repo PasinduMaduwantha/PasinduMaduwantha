@@ -17,9 +17,8 @@
 
 ### :woman_technologist: About Me 
 Computer Engineer [Bsc.Eng (Hons)] at University of Sri Jayewardhenepura, Sri Lnaka 👨‍💻💼🎓. Co-founder & Freelancer 💻 at <a href="https://github.com/orgs/Binary-Clan">Binary Clan</a>.
-Let's connect and collaborate! <a href="apmaduwantha@gmail.com"></a>
 
-Feel free to connect with me! Let's collaborate on some exciting projects! 🤝✨
+Feel free to connect with me! Let's collaborate on some exciting projects! 🤝✨[apmaduwantha@gmail.com](mailto:apmaduwantha@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
